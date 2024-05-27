@@ -1,0 +1,2 @@
+# makineogrenmesi
+ final projesi
